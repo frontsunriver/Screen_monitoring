@@ -1,0 +1,17 @@
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Workspace\learining\dotnet\Server\Server\bin\Debug\net6.0\Server.exe
+D:\Workspace\learining\dotnet\Server\Server\bin\Debug\net6.0\Server.deps.json
+D:\Workspace\learining\dotnet\Server\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Workspace\learining\dotnet\Server\Server\bin\Debug\net6.0\Server.dll
+D:\Workspace\learining\dotnet\Server\Server\bin\Debug\net6.0\EmbedIO.dll
+D:\Workspace\learining\dotnet\Server\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Workspace\learining\dotnet\Server\Server\bin\Debug\net6.0\Swan.Lite.dll
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.dll
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Workspace\learining\dotnet\Server\Server\obj\Debug\net6.0\ref\Server.dll

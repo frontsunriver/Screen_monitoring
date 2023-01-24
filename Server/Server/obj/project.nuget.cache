@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdi3Rk4snV7moxeTW74GMw37+bzrPlcAqmiyD138A60CHzThJNp8H8VLpKdloqUyy24CUpHmvPLUco527ke24Q==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\learining\\dotnet\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\embedio\\3.5.2\\embedio.3.5.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\unosquare.swan.lite\\3.1.0\\unosquare.swan.lite.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

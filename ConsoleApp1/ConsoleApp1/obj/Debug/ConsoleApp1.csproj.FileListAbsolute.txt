@@ -1,0 +1,9 @@
+D:\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\C#\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+D:\C#\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+D:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
